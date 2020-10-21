@@ -1,0 +1,37 @@
+  =================================================
+ ||         BUGDGET ANALYSIS FOR RESIDENT        ||
+  =================================================
+
+  Name          : Kautsar Hasanah
+  Resident Type : R
+
+  -->Total expenses Per Day
+
+   Monday     : RM 49.0
+   Tuesday    : RM 55.0
+   Wednesday  : RM 36.0
+   Thursday   : RM 24.0
+   Friday     : RM 23.8
+   Saturday   : RM 184.0
+   Sunday     : RM 139.0
+
+  -->Total expenses Per Category
+
+  1. Food           : RM 136.0
+  2. Groceries      : RM 75.0
+  3. Transportation : RM 92.0
+  4. Social         : RM 41.8
+  5. Education      : RM 85.0
+  6. Donation       : RM 81.0
+
+  -->Analysis
+
+  MAX DAY       :  RM 184.0
+  MIN DAY       :  RM 23.8
+  MAX CATEGORY  :  RM 136.0
+  MIN CATEGORY  :  RM 41.8
+  AVERAGE PER DAY      : RM 72.97
+  AVERAGE PER CATEGORY : RM 85.13
+  TOTAL                : RM 510.8
+
+

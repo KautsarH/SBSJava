@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=R
+comment1.params=
+comment1.target=R()
+comment10.params=spc
+comment10.target=double\ findMaxCategoryR(double[])
+comment11.params=spc
+comment11.target=double\ findMinCategoryR(double[])
+comment2.params=n\ r\ c
+comment2.target=void\ setR(java.lang.String,\ java.lang.String,\ double[][])
+comment3.params=c
+comment3.target=double[]\ calcSumPerDayR(double[][])
+comment4.params=spd
+comment4.target=double\ calcSumPerWeekR(double[])
+comment5.params=spw
+comment5.target=double\ calcAvgDayR(double)
+comment6.params=c
+comment6.target=double[]\ calcSumPerCategoryR(double[][])
+comment7.params=spc
+comment7.target=double\ calcAvgCategoryR(double[])
+comment8.params=spd
+comment8.target=double\ findMaxDayR(double[])
+comment9.params=spd
+comment9.target=double\ findMinDayR(double[])
+numComments=12

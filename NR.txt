@@ -1,0 +1,36 @@
+  =================================================
+ ||      BUGDGET ANALYSIS FOR NON-RESIDENT       ||
+  =================================================
+
+  Name          : Syahfika Nadia
+  Resident Type : NR
+
+  -->Total expenses Per Day
+
+   Monday     : RM 45.0
+   Tuesday    : RM 36.0
+   Wednesday  : RM 114.0
+   Thursday   : RM 47.0
+   Friday     : RM 65.8
+   Saturday   : RM 48.0
+   Sunday     : RM 38.0
+
+  -->Total expenses Per Category
+
+  1. Food           : RM 113.0
+  2. Groceries      : RM 34.0
+  3. Transportation : RM 44.0
+  4. Social         : RM 33.0
+  5. Education      : RM 36.0
+  6. Donation       : RM 37.0
+  7. Clothing       : RM 34.8
+  8. Others         : RM 62.0
+  -->Analysis
+
+  MAX DAY SPENT :  RM 114.0
+  MIN DAY SPENT :  RM 36.0
+  MAX CATEGORY  :  RM 113.0
+  MIN CATEGORY  :  RM 33.0
+  AVERAGE PER DAY      : RM 56.26
+  AVERAGE PER CATEGORY : RM 49.23
+  TOTAL                : RM 393.8
